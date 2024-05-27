@@ -1,5 +1,10 @@
 package main
 
+/*
+Este codigo es de:
+https://github.com/renzodamgo/Concurrency-in-Go/blob/main/parcial.02/2.a.go
+*/
+
 import (
 	"fmt"
 	"sync"
